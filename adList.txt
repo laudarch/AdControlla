@@ -3,3 +3,5 @@ http://pagead2.googlesyndication.com/pagead/
 http://www.googleadservices.com
 http://d.adroll.com
 doubleclick.com
+http://googleads.g.doubleclick.net
+http://doubleclick.net
